@@ -1,4 +1,4 @@
-# Task 2 with Cycle
+# Task 2 with Cycle while True
 
 while True:
     operation = input("Enter operation 2.0: '+', '-', '*', '/', '//', '%' '**', 'Exit': ")
